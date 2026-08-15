@@ -1,0 +1,52 @@
+{
+  "_id": "d3d2873e6912783e",
+  "name": "Inner circle",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You have a group of loyal confidantes within your larger circle of believers. This is a small gang of 5-10 believers (2-harm small loyal 1-armour). Pick 2:<br>• Your confidantes are well armed: add +1 harm<br>• Your confidantes are well armoured: +1 armour and +obvious<br>• Your confidantes are ex-military: add +disciplined<br>• Your confidantes have bikes or a couple of other vehicles: add +mobile</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Pusher",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d3d2873e6912783e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

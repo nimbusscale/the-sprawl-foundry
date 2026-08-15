@@ -1,0 +1,31 @@
+{
+  "_id": "ff6f3e993a62afd6",
+  "name": "Automatic Shotgun",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>3-harm close/near loud messy autofire</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"3-harm\",\"close\",\"near\",\"loud\",\"messy\",\"autofire\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ff6f3e993a62afd6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

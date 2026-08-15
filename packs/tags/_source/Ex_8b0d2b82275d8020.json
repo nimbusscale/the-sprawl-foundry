@@ -1,0 +1,25 @@
+{
+  "_id": "8b0d2b82275d8020",
+  "name": "Ex",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>Extreme range: the optimum range for the weapon is several hundred metres away.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8b0d2b82275d8020",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

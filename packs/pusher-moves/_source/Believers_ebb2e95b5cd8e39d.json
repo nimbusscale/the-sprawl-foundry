@@ -1,0 +1,52 @@
+{
+  "_id": "ebb2e95b5cd8e39d",
+  "name": "Believers",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You are part of a gang, tribe, band, corporation or similar group. You can go to them for aid, for resources or to hide out until the heat dies down. As a group, they're pretty trustworthy, but they will make demands on you in return (your gang counts as a Contact). By default this group has a core of about 20 people as well as various associates and groupies.<br><br>What kind of gang is it? Choose one: Street, Corporate, Entertainment/Media, Military, Political<br><br>How big is your gang? Choose a size and choose two tags:<br>• Small: 10 or fewer (loyal, mobile, well-armed, specialists)<br>• Medium: 20-40 (mobile, well-armed, specialists)<br>• Large: 50-100 (well-connected, resources, self-sufficient)<br>• Huge: 200+ (well-connected, resources, spread out, self-sufficient)<br><br>Define your gang's territory. Do they control a few blocks of the streets? Do they operate out of a compound or an arcology?<br><br>Choose one: poor, wanted, hard to find, unreliable, violent, hated<br><br>Who leads your gang? If your gang is small, you may be the leader. Otherwise, choose one: immoral, demanding, grasping, a real fucker, useless, absent<br><br>What are your gang's main gigs? Choose two: commerce, crime, parties, muscle, deliveries, entertainment, infiltration, scavenging, activism, politics</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Pusher",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ebb2e95b5cd8e39d",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "344afbf28d6b55a4",
+  "name": "Tactical Computer",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>An expert system core calculates distance, environment and movement factors and provides a suite of tactical tools to enhance the user's understanding of and operation within a tactical environment.<br><br>• When you assess in a tactical situation, hold +1, even on a miss.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!344afbf28d6b55a4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

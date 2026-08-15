@@ -1,0 +1,31 @@
+{
+  "_id": "d6db22e1b860a0dd",
+  "name": "Gel Rounds",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Less lethal. A weapon loaded with gel rounds inflicts s-harm instead of its listed harm value; targets harmed by gel rounds add the original harm value (minus armour) to their roll when making the harm move.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d6db22e1b860a0dd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

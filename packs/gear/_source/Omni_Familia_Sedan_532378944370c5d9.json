@@ -1,0 +1,31 @@
+{
+  "_id": "532378944370c5d9",
+  "name": "Omni Familia (Sedan)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A nondescript sedan.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"nondescript\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!532378944370c5d9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

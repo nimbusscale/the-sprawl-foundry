@@ -1,0 +1,27 @@
+{
+  "_id": "13188736ad1f739f",
+  "name": "Hunter",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "hunter",
+    "description": "<p>There are millions of people in this sprawl, and millions of secrets. An immense cloak of glass, ferrocrete, plasteel and flesh; it's the perfect place to hide. Your contacts, skills, and experience give you a firm grip on that cloak, letting you ease it back and find out what's hidden underneath. What happens then, well, that depends how much they're paying, doesn't it?</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!13188736ad1f739f",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

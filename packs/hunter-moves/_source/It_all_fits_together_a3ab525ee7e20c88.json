@@ -1,0 +1,52 @@
+{
+  "_id": "a3ab525ee7e20c88",
+  "name": "It all fits together!",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You're a master of making connections between seemingly unrelated events. At the start of a mission, roll Edge.<br><br>As you put everything together during the mission, spend 1 hold at any time to ask a question from the <strong>research</strong> list.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain 3 hold.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain 1 hold.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Hunter",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a3ab525ee7e20c88",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

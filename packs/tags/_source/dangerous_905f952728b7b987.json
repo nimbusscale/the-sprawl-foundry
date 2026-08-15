@@ -1,0 +1,25 @@
+{
+  "_id": "905f952728b7b987",
+  "name": "dangerous",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>On a miss, the user suffers harm.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!905f952728b7b987",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

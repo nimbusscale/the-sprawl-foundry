@@ -1,0 +1,25 @@
+{
+  "_id": "8854bf6ed11d096a",
+  "name": "loud",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The sound is unmistakable, everyone nearby hears it, and, if the circumstances allow, they'll be able to identify where it came from as well.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8854bf6ed11d096a",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

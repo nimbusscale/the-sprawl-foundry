@@ -1,0 +1,31 @@
+{
+  "_id": "44885d592ee2aa16",
+  "name": "Explosives",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Spray explosives for breaching doors, small portable plastic explosives for destroying vehicles and weakening structures, or industrial-grade demolitions equipment. All are +AP, +dangerous, +messy, +loud, +breach.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"AP\",\"dangerous\",\"messy\",\"loud\",\"breach\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!44885d592ee2aa16",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

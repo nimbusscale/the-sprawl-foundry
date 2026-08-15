@@ -1,0 +1,52 @@
+{
+  "_id": "7a6a7415d749b5f8",
+  "name": "Monstering",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you corner someone and hound them with questions to get to the bottom of a story, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>they tell you the truth, regardless of the consequences</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>they give you enough to get you off their back, then when they're safe, they choose one:<br>• they respond with fear<br>• they respond with anger<br>• they respond with clinical calm</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Reporter",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!7a6a7415d749b5f8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

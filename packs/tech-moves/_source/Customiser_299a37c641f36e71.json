@@ -1,0 +1,52 @@
+{
+  "_id": "299a37c641f36e71",
+  "name": "Customiser",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> You can identify and examine new or complicated technology related to your area of expertise, and modify technology with which you are familiar. When you try to modify a piece of tech, tell the MC what you want to do and discuss what tags or game effect that modification will have. The MC will tell you the requirements in terms of:<br>• time<br>• tools",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Tech",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!299a37c641f36e71",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

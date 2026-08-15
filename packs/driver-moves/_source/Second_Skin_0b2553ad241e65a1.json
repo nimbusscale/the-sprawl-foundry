@@ -1,0 +1,52 @@
+{
+  "_id": "0b2553ad241e65a1",
+  "name": "Second Skin",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When jacked in through your Neural Interface to a cyber-linked vehicle:<br>• when you act under pressure, roll Cool + your car's power<br>• if you mix it up, roll Synth (instead of Meat) + your car's power<br>• if you play hardball, roll Edge + your car's looks<br>• if you help or interfere with someone, roll Links + your car's power<br>• if someone interferes with you, add your car's weakness to their roll (in addition to their links)</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Driver",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!0b2553ad241e65a1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

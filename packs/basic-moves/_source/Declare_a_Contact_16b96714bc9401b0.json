@@ -1,0 +1,52 @@
+{
+  "_id": "16b96714bc9401b0",
+  "name": "Declare a Contact",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you need to call in a favour from a new contact, name and describe the Contact, then say why the Contact owes you a favour or why you owe them a favour. The MC will ask you some questions about the Contact and your relationship. Add the Contact to your list.<br><br>You can only declare a contact once per mission, although certain Playbook Moves may allow you to gain more contacts in similar ways.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!16b96714bc9401b0",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

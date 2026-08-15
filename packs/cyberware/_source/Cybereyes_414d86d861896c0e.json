@@ -1,0 +1,31 @@
+{
+  "_id": "414d86d861896c0e",
+  "name": "Cybereyes",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Replacement eyes that grant super-human or extra-human visual capabilities. Aesthetic considerations are also important to many buyers.<br><br>When you have cybereyes installed, choose two of the following tags: thermographic, light amplification, magnification, flare compensation, recording, encrypted, inaccessible partition.<br><br>• When your enhanced sight helps, you may roll Synth for assess.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[\"thermographic\",\"light amplification\",\"magnification\",\"flare compensation\",\"recording\",\"encrypted\",\"inaccessible partition\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!414d86d861896c0e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "ce102cfb9a36ad27",
+  "name": "Infiltrator",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "infiltrator",
+    "description": "<p>The Sprawl is a network of walls and enclosures; keeping people out, keeping people in. Your job is getting past those walls - quietly. You are a master of slipping past the barriers everyone thinks will protect them, keeping your presence a secret and, when you must be seen, keeping your identity unknown. You hide in the shadows, blend in with the crowd, avoid detection and get things done smoothly. Whether you're a black-clad techno-ninja or a suave face, an Infiltrator is a key member of any team.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ce102cfb9a36ad27",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

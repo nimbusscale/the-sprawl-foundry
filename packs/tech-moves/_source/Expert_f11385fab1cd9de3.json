@@ -1,0 +1,52 @@
+{
+  "_id": "f11385fab1cd9de3",
+  "name": "Expert",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> Choose one area of expertise:<br>• Mechanic: you are an <strong>expert</strong> in the construction, maintenance and operation of vehicles & drones; you have two drones created according to the Driver move <strong>drone jockey</strong><br>• Splicer: you are an <strong>expert</strong> in cybernetics and biomodification; you may begin with one extra piece of cyberware; describe how you implanted this in yourself, but you need not describe how you paid for it<br>• Breadboarder: you are an <strong>expert</strong> in computers and electronics; you have a cyberdeck with 5 points of ratings (no rating may be higher than 2) and a number of programs equal to its Processor rating+1<br>• Gunsmith: you are an <strong>expert</strong> in armaments; you begin with the Killer move <strong>custom weapon</strong><br>• Medic: you are an <strong>expert</strong> in medicine and pharmaceuticals; when you <strong>apply first aid</strong>, you heal one additional harm segment, even on a miss<br>• Pyrotechnician: you are an <strong>expert</strong> in chemistry and explosives; ignore the +dangerous tag for explosives<br><br>You start with workshops appropriate to your areas of expertise (e.g. surgery, electronics workshop, garage).",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Tech",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!f11385fab1cd9de3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

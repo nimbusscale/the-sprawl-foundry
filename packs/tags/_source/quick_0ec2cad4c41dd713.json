@@ -1,0 +1,25 @@
+{
+  "_id": "0ec2cad4c41dd713",
+  "name": "quick",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>If speed matters, quick weapons go first.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!0ec2cad4c41dd713",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

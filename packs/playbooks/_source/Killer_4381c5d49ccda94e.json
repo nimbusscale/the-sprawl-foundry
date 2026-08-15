@@ -1,0 +1,27 @@
+{
+  "_id": "4381c5d49ccda94e",
+  "name": "Killer",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "killer",
+    "description": "<p>Eyes by Kikuyu Optics, arm by Nkembe Robotics, muscles by Helixtec, synthetic nerves by some bleeding-edge black clinic in Chiba. You're more machine than meat and more deadly than either. Some jobs require a soft touch, some a strong hand, others a dozen mags of caseless flechette rounds and twelve inches of retractable plastisteel inserted at high velocity into various reluctant organs. Those are the jobs you like. After all, you paid a lot for those mods, it'd be a shame not to use 'em.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!4381c5d49ccda94e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

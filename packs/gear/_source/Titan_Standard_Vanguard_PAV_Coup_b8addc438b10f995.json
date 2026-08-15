@@ -1,0 +1,31 @@
+{
+  "_id": "b8addc438b10f995",
+  "name": "Titan Standard Vanguard PAV (Coupé)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A rugged, armoured Personal Armoured Vehicle (PAV) coupé.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"rugged\",\"armoured\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b8addc438b10f995",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

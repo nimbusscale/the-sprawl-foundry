@@ -1,0 +1,52 @@
+{
+  "_id": "b091cf93434e0b3a",
+  "name": "Case the joint",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you take time to examine a location for security weaknesses you can exploit, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain three [intel].</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain [intel]. You may spend this [intel] in the normal way, or you can spend one point of this [intel] to ask questions from the <strong>assess</strong> or <strong>research</strong> lists.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Infiltrator",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b091cf93434e0b3a",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

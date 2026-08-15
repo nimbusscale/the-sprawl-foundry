@@ -1,0 +1,31 @@
+{
+  "_id": "300839ecb79afd43",
+  "name": "Cybercoms",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>An internal headware communications suite which allows silent, thought-activated communications.<br><br>When you have cybercoms installed, choose two of the following tags: encrypted, jamming, recording, satellite relay, inaccessible partition.<br><br>• When monitoring communications or giving orders in a tactical environment, you may roll Synth for assess.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[\"encrypted\",\"jamming\",\"recording\",\"satellite relay\",\"inaccessible partition\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!300839ecb79afd43",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "f0edf57c4a9c6a41",
+  "name": "Acquire Agricultural Property",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you hit 0000 on your Harm Clock, roll Meat.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You survive until the medics arrive.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You survive at a cost. Pick one:<br>• +owned<br>• substandard treatment (-1 to a stat)<br>• cyberware damage (give one piece of cyberware a negative tag)</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You bleed out on the street.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "meat",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!f0edf57c4a9c6a41",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

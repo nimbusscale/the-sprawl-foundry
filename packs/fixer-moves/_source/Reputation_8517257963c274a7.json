@@ -1,0 +1,52 @@
+{
+  "_id": "8517257963c274a7",
+  "name": "Reputation",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you meet someone of consequence who might have heard of you, roll Edge. Either you or the MC can say whether someone is \"of consequence\", but once you've made the reputation move on someone, they're \"of consequence\" and will be a recurring part of the story.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Say what they know about you, and take +1 forward with them.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Say what they know about you.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>The MC will decide what they've heard about you, if anything.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Fixer",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8517257963c274a7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

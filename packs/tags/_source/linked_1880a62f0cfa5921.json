@@ -1,0 +1,25 @@
+{
+  "_id": "1880a62f0cfa5921",
+  "name": "linked",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The weapon can interface with a neural interface (and a targeting suite).</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!1880a62f0cfa5921",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "107b5b4968bc8796",
+  "name": "Specialist Toolkit",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Specialist toolkits, survival kits, and the like. Can be used 3 times. Each use grants +1 forward to a move relevant to the specialisation of the toolkit.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!107b5b4968bc8796",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

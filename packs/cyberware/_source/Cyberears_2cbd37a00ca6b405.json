@@ -1,0 +1,31 @@
+{
+  "_id": "2cbd37a00ca6b405",
+  "name": "Cyberears",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Replacement ears that grant super-human or extra-human aural capabilities.<br><br>When you have cyberears installed, choose two of the following tags: dampening, wide frequency, recording, encrypted, inaccessible partition.<br><br>• When your enhanced hearing helps, you may roll Synth for assess.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[\"dampening\",\"wide frequency\",\"recording\",\"encrypted\",\"inaccessible partition\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!2cbd37a00ca6b405",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

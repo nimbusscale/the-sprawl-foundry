@@ -1,0 +1,52 @@
+{
+  "_id": "b5084834ccbd9a13",
+  "name": "Blend in",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you're about to be caught somewhere you shouldn't be, but look and act like you belong there, roll Cool.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>no one thinks twice about your presence until you do something to attract attention</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>you'll be fine as long as you leave right now, but if you do anything else, your presence will arouse suspicion</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Tech",
+    "rollType": "cool",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b5084834ccbd9a13",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

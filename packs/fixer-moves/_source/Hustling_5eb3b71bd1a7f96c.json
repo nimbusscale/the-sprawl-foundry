@@ -1,0 +1,52 @@
+{
+  "_id": "5eb3b71bd1a7f96c",
+  "name": "Hustling",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You have people who work for you in various ways. You start with 2-crew and two jobs from the list below. Between missions, choose a number of those jobs equal to or less than your current crew, describe what each job is, and roll Edge.<br><br>Choose two:<br>• Surveillance: You have a small network of informants who report on events; you then sell that information. Profit: gain [intel]. Disaster: someone acts on bad info<br>• Debt collection: You have a few burly looking fuckers who collect outstanding debts. Profit: gain [gear]. Disaster: someone's out of pocket<br>• Petty theft: You have a small crew who perform minor local robberies. Profit: gain [gear]. Disaster: they robbed the wrong guy<br>• Deliveries: People hire you to transport things and you have a driver who takes care of that. Profit: gain 1 Cred. Disaster: the delivery never arrives<br>• Brokering deals: You arrange for the right people to meet each other. Profit: gain 1 Cred. Disaster: the deal that you arranged goes wrong<br>• Technical work: You have a couple of techs whom you supply with work. Profit: gain [gear]. Disaster: something bad happens to someone else's property<br>• Pimping: You manage a small stable of physical or virtual sex workers. Profit: gain [intel]. Disaster: something goes wrong with a customer<br>• Addictive substances: You manage a small lab producing either drugs or simstim chips. Profit: gain [intel]. Disaster: something goes wrong for a user or for the lab itself</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You profit from each of your jobs.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>One of them is a Disaster and you Profit from the rest.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>Everything's FUBAR. The MC will make a move based on the Disaster for each job.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Fixer",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!5eb3b71bd1a7f96c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

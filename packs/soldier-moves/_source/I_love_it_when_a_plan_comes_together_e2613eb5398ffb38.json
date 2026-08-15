@@ -1,0 +1,52 @@
+{
+  "_id": "e2613eb5398ffb38",
+  "name": "I love it when a plan comes together",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> At the start of a mission, roll Edge.<br><br>During the mission, spend 1 hold for one of the following effects:<br>• You have that piece of gear that you need, right now<br>• You appear in a scene where you are needed, right now",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>gain 3 hold</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>gain 1 hold</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>gain 1 hold anyway, but your opponent has predicted your every move; the MC will advance the Legwork Clock</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Soldier",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!e2613eb5398ffb38",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

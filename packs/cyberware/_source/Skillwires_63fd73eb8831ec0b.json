@@ -1,0 +1,31 @@
+{
+  "_id": "63fd73eb8831ec0b",
+  "name": "Skillwires",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A headware expert system linked to the brain's muscle control centres that triggers specific muscular reactions which simulate the instincts and actions of an expert practitioner. The system contains a number of external slots into which skillchips can be slotted granting a small number of skills in parallel. Skillchips often include a knowledge database covering non-physical aspects of the programmed skill.<br><br>• When your slotted skillchip is appropriate to a move you are making, take +1 ongoing if your relevant stat is +1 or less. Standard skillwires comes with two slots and you may have one chip active in each slot.<br><br>If you start with Skillwires, you also start with one chip per slot. You can acquire more skillchips in play like any other gear.<br><br>Example skillchips: martial arts, breaking and entering, rock climbing, skydiving, scuba diving, planning and logistics, firefight combat, extreme driving, parkour, first aid, military history and tactics.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!63fd73eb8831ec0b",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

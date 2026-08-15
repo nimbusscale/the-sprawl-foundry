@@ -1,0 +1,25 @@
+{
+  "_id": "d941a77b1be079a8",
+  "name": "armed",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>A weapon can be mounted on the vehicle or drone. The size of the weapon is determined by the size of the frame.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d941a77b1be079a8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

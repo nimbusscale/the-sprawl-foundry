@@ -1,0 +1,31 @@
+{
+  "_id": "e8e4b7461f3c28af",
+  "name": "Kikuyu Animatronics Spy Fly",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Infiltration drone. Tiny rotor fragile stealthy magnification.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"tiny\",\"rotor\",\"fragile\",\"stealthy\",\"magnification\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!e8e4b7461f3c28af",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

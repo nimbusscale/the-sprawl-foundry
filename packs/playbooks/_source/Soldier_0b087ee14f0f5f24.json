@@ -1,0 +1,27 @@
+{
+  "_id": "0b087ee14f0f5f24",
+  "name": "Soldier",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "soldier",
+    "description": "<p>Some people think being a Soldier in the corporate shadow wars is all about toting guns and kicking in doors. That ain't it at all. In this business, planning and preparation is what separates the professionals from the corpses. There are plenty of successful teams in your line of work, but those that live long enough to spend their money are led by people like you. The one who minutely studies the corporate dossier on the target until he knows his every move before he makes it. The one who watches surveillance footage for two days straight to find the weakness in the security pattern. The one who pores over the archaic paper maps of the utility tunnels under the facility. It's a thankless job, but it pays well. You get to live.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!0b087ee14f0f5f24",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

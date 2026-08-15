@@ -1,0 +1,25 @@
+{
+  "_id": "ae37578ca8e25637",
+  "name": "clumsy",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>This weapon or armour is large and unwieldy. It can be difficult to move quickly, quietly, or in tight spaces while carrying this. Weapons with the +clumsy tag usually require a braced or prone firing position, or some sort of gyroscopic exoskeleton.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ae37578ca8e25637",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

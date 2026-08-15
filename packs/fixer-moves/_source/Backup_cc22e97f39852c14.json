@@ -1,0 +1,52 @@
+{
+  "_id": "cc22e97f39852c14",
+  "name": "Backup",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You have a group of \"associates\" who provide security. This is a small gang of 5-10 hired thugs (2-harm +small +employees 1-armour). Pick 2:<br>• Your associates are well armed: add 1 harm<br>• Your associates are well armoured: add 1 armour and +obvious<br>• Your associates are ex-military: add +disciplined<br>• Your associates are more than muscle to you: replace +employees with +loyal<br>• Your associates have bikes or a couple of other vehicles: add +mobile<br>• You have a large group of associates (15-30): replace +small with +medium<br><br>Gain the following job, and +1 crew:<br>• Protection: Your associates have your back. Disaster: Your associates have pissed off the wrong people</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Fixer",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!cc22e97f39852c14",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

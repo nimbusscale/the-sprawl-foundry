@@ -1,0 +1,31 @@
+{
+  "_id": "3dbf8a715e7611cc",
+  "name": "Missile Launcher",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>5-harm far area messy breach clumsy</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"5-harm\",\"far\",\"area\",\"messy\",\"breach\",\"clumsy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!3dbf8a715e7611cc",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

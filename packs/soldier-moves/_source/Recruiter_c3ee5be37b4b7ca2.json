@@ -1,0 +1,52 @@
+{
+  "_id": "c3ee5be37b4b7ca2",
+  "name": "Recruiter",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you attempt to recruit a specialist or a team of specialists to directly assist with your mission, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>choose 2:<br>• Reliable professional(s)<br>• A small team (up to 5)<br>• As competent as required</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>choose 1:<br>• Reliable professional(s)<br>• A small team (up to 5)<br>• As competent as required</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Soldier",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c3ee5be37b4b7ca2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

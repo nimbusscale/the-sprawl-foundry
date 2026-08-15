@@ -1,0 +1,31 @@
+{
+  "_id": "91ac9a17bdf347a9",
+  "name": "Military Hardsuit",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>3-armour, clumsy</p>",
+    "equipmentType": "armor",
+    "tags": "[\"3-armour\",\"clumsy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!91ac9a17bdf347a9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

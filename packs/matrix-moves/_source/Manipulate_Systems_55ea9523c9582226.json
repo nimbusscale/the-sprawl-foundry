@@ -1,0 +1,52 @@
+{
+  "_id": "55ea9523c9582226",
+  "name": "Manipulate Systems",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you attempt to manipulate a digitally-controlled aspect of a facility, roll Synth.<br><br>You may spend 1 hold to activate routines on that sub-system.</p>",
+    "requiresMove": "",
+    "moveType": "matrix",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain 3 hold over the sub-system you are manipulating.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain 1 hold.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "synth",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!55ea9523c9582226",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "b115e1d768887aeb",
+  "name": "Hacker",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "hacker",
+    "description": "<p>Console Cowboy, Netrunner, Decker; they're just words. Who gives a shit about words? Numbers are what matter now. Zeros and ones, baby, and when it comes to paydata, the more zeros the better. You're the shadow in the networks of cyberspace, going where you please and taking what you want. No mega-corporate system is safe from your icebreakers. Black ICE? Well, that makes it fun.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b115e1d768887aeb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

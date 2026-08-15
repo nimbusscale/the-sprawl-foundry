@@ -1,0 +1,31 @@
+{
+  "_id": "ffbe838b5b32cdeb",
+  "name": "Musical Instruments",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Optional tags: +recording, +satellite relay, +simsense.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ffbe838b5b32cdeb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

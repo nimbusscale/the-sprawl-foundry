@@ -1,0 +1,31 @@
+{
+  "_id": "58d604cc9228be6c",
+  "name": "Wingsuit or Microlite",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Wingsuit, microlite, or other lightweight single-occupant aircraft.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!58d604cc9228be6c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

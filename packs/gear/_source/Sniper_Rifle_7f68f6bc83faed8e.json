@@ -1,0 +1,31 @@
+{
+  "_id": "7f68f6bc83faed8e",
+  "name": "Sniper Rifle",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>3-harm far/ex loud clumsy</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"3-harm\",\"far\",\"ex\",\"loud\",\"clumsy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!7f68f6bc83faed8e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

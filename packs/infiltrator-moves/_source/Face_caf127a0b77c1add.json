@@ -1,0 +1,52 @@
+{
+  "_id": "caf127a0b77c1add",
+  "name": "Face",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You specialise in infiltrating by appearing to belong in places you do not, hiding in plain sight. During your infiltration, you will have opportunity to see or overhear information which might be relevant later. After you have spent all your <strong>covert entry</strong> hold infiltrating a secure area through charm and social graces, gain [intel].</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Infiltrator",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!caf127a0b77c1add",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "acd69b34a8459bd6",
+  "name": "Shuriken or Throwing Knives",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>2-harm close numerous</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"2-harm\",\"close\",\"numerous\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!acd69b34a8459bd6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

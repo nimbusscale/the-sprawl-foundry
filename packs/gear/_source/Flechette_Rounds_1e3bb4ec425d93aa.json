@@ -1,0 +1,31 @@
+{
+  "_id": "1e3bb4ec425d93aa",
+  "name": "Flechette Rounds",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Tightly packed synthetic plastic shards that tear through flesh but are easily stopped by armour. A weapon loaded with flechette rounds adds +1 harm, but the target's armour value is doubled. Weapons with the +flechette tag already include the +1 harm.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"flechette\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!1e3bb4ec425d93aa",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

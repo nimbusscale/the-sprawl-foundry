@@ -1,0 +1,31 @@
+{
+  "_id": "53bbc2e420220a6c",
+  "name": "Microtronics Workstation",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You may perform field repairs on electronics and cyberware.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!53bbc2e420220a6c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

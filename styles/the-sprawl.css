@@ -1,0 +1,112 @@
+/* The Sprawl PbtA Module Styles — neon-and-chrome cyberpunk */
+
+/* Sheet background: dark chrome */
+.pbta.sheet:is(.actor, .item) section.window-content {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  background-image: linear-gradient(180deg, #0d1117 0%, #11161f 100%);
+}
+
+/* Stat blocks and tabs: dark with magenta edge */
+.pbta.sheet .sheet-attributes .cell--stats .stat {
+  background: #161b22;
+  border-color: #ff2e88;
+}
+
+.pbta.sheet .sheet-attributes .cell--stats .stat :is(.cell__title, .stat-icon) {
+  color: #00e5ff;
+  text-shadow: 0 0 6px #00e5ff;
+}
+
+/* Hover states: neon glow */
+.pbta.sheet :is(.sheet-attributes .cell--stats .stat, .tabs .item, .cell__title button):hover {
+  background: #1f2733;
+  color: #ff2e88;
+  box-shadow: 0 0 8px #ff2e88;
+}
+
+/* Tabs */
+.pbta.sheet .tabs .item {
+  background: #161b22;
+  color: #8b949e;
+  border-bottom: 2px solid #ff2e88;
+}
+
+.pbta.sheet .tabs .item.active {
+  background: #11161f;
+  color: #00e5ff;
+  font-weight: normal;
+  text-shadow: 0 0 6px #00e5ff;
+}
+
+.pbta.sheet .tabs .item:is(:hover, :focus) {
+  border-color: #00e5ff;
+  border-bottom-color: #ff2e88;
+}
+
+/* Inputs */
+.pbta.sheet :is(.cell--attributes-top, .cell--attributes-left) input {
+  color: #c9d1d9;
+}
+
+.pbta.sheet :is(.cell--attributes-top, .cell--attributes-left) input:hover {
+  box-shadow: 0 0 6px #00e5ff;
+}
+
+/* Buttons */
+.pbta.sheet .cell__title button,
+.pbta.sheet .cell__subtitle button {
+  color: #00e5ff;
+  border: 1px solid #00e5ff;
+  background: transparent;
+}
+
+.pbta.sheet .cell__title button:hover {
+  border-color: #ff2e88;
+  color: #ff2e88;
+}
+
+/* Editor content */
+.pbta.sheet .sheet-wrapper .editor-content {
+  background: rgba(0, 229, 255, 0.04);
+}
+
+/* Character image */
+.pbta.sheet .cell--image {
+  background: rgba(255, 46, 136, 0.12);
+}
+
+/* Item controls */
+.pbta.sheet .item-controls a.item-control:hover {
+  color: #ff2e88;
+  text-shadow: 0 0 6px #ff2e88;
+}
+
+/* The Harm Clock reads as the danger element — tint it */
+.pbta.sheet .cell--attr-type .clock,
+.pbta.sheet .resource-clock {
+  filter: drop-shadow(0 0 3px #ff2e88);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #ff2e88;
+  border: 1px solid #00e5ff;
+}
+
+/* Condition / checkbox lists */
+.pbta.sheet :is(.cell--attr-type) .cell__checkboxes {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* Header fields */
+.pbta.sheet:not(.npc) .sheet-header__fields {
+  display: flex;
+  margin-right: 5px;
+}
+
+.pbta.sheet .sheet-header__fields i.fa-solid.fa-book {
+  align-self: center;
+  margin: 0 -5px 0 5px;
+}

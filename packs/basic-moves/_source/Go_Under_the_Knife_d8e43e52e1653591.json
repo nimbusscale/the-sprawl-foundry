@@ -1,0 +1,52 @@
+{
+  "_id": "d8e43e52e1653591",
+  "name": "Go Under the Knife",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you have new cyberware installed by a street doctor, roll Cred spent (max +2).<br><br>When you have new cyberware installed in accordance with a corporate contract, ignore all of that bad stuff. You're +owned. Your cyberware works exactly the way they intend it.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>The operation was a complete success.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>The cyberware doesn't work as well as advertised, choose one:<br>• +damaging: sometimes it hurts like hell and eventually it will do permanent nerve damage<br>• +hardware decay: it works now, but it's just a matter of time...<br>• +substandard: it works, but not as well as it should<br>• +unreliable: sometimes it doesn't work</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>There have been... complications.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d8e43e52e1653591",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

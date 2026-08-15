@@ -1,0 +1,52 @@
+{
+  "_id": "0d76619deba3cf25",
+  "name": "Plan B",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When shit hits the fan and you have to get out, name your escape route and roll Cool.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Sweet, you're gone.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You can go or stay, but if you go it costs you: leave something behind, or take something with you; in either case, the MC will tell you what.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You're caught in a vulnerable position, half in and half out. The MC will make a move.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Infiltrator",
+    "rollType": "cool",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!0d76619deba3cf25",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

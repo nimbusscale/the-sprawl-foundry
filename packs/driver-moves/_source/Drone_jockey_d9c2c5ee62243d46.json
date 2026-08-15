@@ -1,0 +1,52 @@
+{
+  "_id": "d9c2c5ee62243d46",
+  "name": "Drone jockey",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You start with two drones. For each:<br><br>Choose a motive style: rotor, fixed-wing, quadruped, octoped, tracked, wheeled, aquatic, amphibious, submarine<br><br>Choose a frame:<br>• Tiny (insect-sized): +small, +fragile, +stealthy, pick one sensor<br>• Small (rat- to cat-sized): choose one strength, one sensor, one weakness, and one other from any category<br>• Medium (dog-sized): choose one strength, one sensor, one weakness, and two others from any category<br>• Large (bear-sized): +obvious, choose two strengths, one sensor, one weakness and two others from any category<br><br>• Strengths: fast, rugged, off-road, responsive, uncomplaining, easily repaired, stealthy, tight encryption, autonomous, robot arm, armed, satellite relay<br>• Sensors: magnification, thermographic, jamming, image enhancement, analysis software, sonar, medical<br>• Weaknesses: slow, fragile, unreliable, loud, loose encryption, obvious<br><br>Armed: a weapon can be mounted on the drone. The size of the weapon is determined by the size of the frame.<br>• A small drone can mount a gun dealing 2- or s-harm with a range tag of close or less and without the autofire tag<br>• A medium drone can mount a gun dealing up to 3-harm with a range tag of near or less<br>• A large drone can mount a gun dealing up to 5-harm</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Driver",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d9c2c5ee62243d46",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

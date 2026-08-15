@@ -1,0 +1,27 @@
+{
+  "_id": "69f3edf32465d475",
+  "name": "Reporter",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "reporter",
+    "description": "<p>There's dirty business going down all over this city. I'm not talking about sex scandals and drunken escapades. That's what they want you to focus on. Leave the tabloid stuff for the hacks. It's the real secrets you want: rights are being trampled; families are being separated; lives are being destroyed. You hear about the building collapse on seventh the other day? Seventy-two people died. Word is, that wasn't an accident. Right now people's lives - peoples' fucking lives - are being traded for market share, profit margin and fucking competitive advantage. Sure, you hang out with a bunch of criminals and break all sorts of laws to get the story, and some people might get hurt, but the people need to know what's happening behind those wood-panelled boardroom doors. The ends justify the means, right?</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!69f3edf32465d475",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

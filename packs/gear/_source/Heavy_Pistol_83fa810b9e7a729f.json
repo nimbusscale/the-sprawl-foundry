@@ -1,0 +1,31 @@
+{
+  "_id": "83fa810b9e7a729f",
+  "name": "Heavy Pistol",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>3-harm close/near loud</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"3-harm\",\"close\",\"near\",\"loud\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!83fa810b9e7a729f",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

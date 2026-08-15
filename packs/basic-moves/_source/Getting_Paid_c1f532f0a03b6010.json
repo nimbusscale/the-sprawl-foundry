@@ -1,0 +1,52 @@
+{
+  "_id": "c1f532f0a03b6010",
+  "name": "Getting Paid",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you go to a meet to get paid by your employer, roll and add the number of unfilled segments on the Legwork Clock.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Choose 3 from the list below:<br>• it's not a set-up or an ambush<br>• you are paid in full<br>• the meeting doesn't attract the attention of outside parties<br>• the employer is identifiable<br>• you learned something from the mission; everyone marks experience</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Choose 1 from the list below:<br>• it's not a set-up or an ambush<br>• you are paid in full<br>• the meeting doesn't attract the attention of outside parties<br>• the employer is identifiable<br>• you learned something from the mission; everyone marks experience</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c1f532f0a03b6010",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

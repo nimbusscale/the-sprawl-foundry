@@ -1,0 +1,52 @@
+{
+  "_id": "5629676ca02f4e5c",
+  "name": "Wheels",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You start with a cyber-linked vehicle. If your vehicle has Power+2, it may start with one mounted weapon system. To build your vehicle:<br><br>Choose a Frame: motorcycle, car, hovercraft, boat, vectored-thrust panzer, fixed-wing aircraft, helicopter, amphibious<br><br>Choose a Design: racing, recreational, passenger transport, cargo, military, luxury, civilian, commercial, courier<br><br>Choose a Profile:<br>• Power+2, Looks+1, Weakness+1; 1-Armour<br>• Power+2, Looks+2, Weakness+1; 0-Armour<br>• Power+1, Looks+2, Weakness+1; 1-Armour<br>• Power+2, Looks+1, Weakness+2; 2-Armour<br><br>For each point of Power, choose a strength; for each point of Looks, choose a look; for each point of Weakness, choose a weakness. If your vehicle has Power+2, it may mount one weapon system; Military vehicles may mount an additional weapon system.<br><br>• Strengths: fast, quiet, rugged, aggressive, huge, off-road, responsive, uncomplaining, capacious, workhorse, easily repaired<br>• Looks: sleek, vintage, pristine, powerful, luxurious, flashy, muscular, quirky, pretty, garish, armoured, armed, nondescript<br>• Weaknesses: slow, fragile, sloppy, lazy, cramped, picky, guzzler, unreliable, loud<br>• Weapons: Machine guns (3-harm near/far area loud messy autofire), grenade launchers (4-harm near/far area loud messy), missile launcher (5-harm far area messy breach), autocannon (4-harm near/far area messy breach)<br><br>When you've finished creating your vehicle, name it.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Driver",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!5629676ca02f4e5c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

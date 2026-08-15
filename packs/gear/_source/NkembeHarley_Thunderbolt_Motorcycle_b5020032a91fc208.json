@@ -1,0 +1,31 @@
+{
+  "_id": "b5020032a91fc208",
+  "name": "Nkembe-Harley Thunderbolt (Motorcycle)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>An aggressive motorcycle.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"aggressive\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b5020032a91fc208",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

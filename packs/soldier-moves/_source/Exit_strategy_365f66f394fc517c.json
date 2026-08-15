@@ -1,0 +1,52 @@
+{
+  "_id": "365f66f394fc517c",
+  "name": "Exit strategy",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You always have an escape plan prepared. When shit hits the fan and you decide to bail out, roll Mind.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You escape the situation, and choose one thing to leave behind:<br>• Your team<br>• A mission objective<br>• Identifiable evidence<br>• Your staked Cred</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You escape the situation, but choose two things to leave behind:<br>• Your team<br>• A mission objective<br>• Identifiable evidence<br>• Your staked Cred</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Soldier",
+    "rollType": "mind",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!365f66f394fc517c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

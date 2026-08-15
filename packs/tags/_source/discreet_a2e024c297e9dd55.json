@@ -1,0 +1,25 @@
+{
+  "_id": "a2e024c297e9dd55",
+  "name": "discreet",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The weapon is easy to hide and will often be overlooked.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a2e024c297e9dd55",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

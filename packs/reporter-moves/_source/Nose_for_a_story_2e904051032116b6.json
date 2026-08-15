@@ -1,0 +1,52 @@
+{
+  "_id": "2e904051032116b6",
+  "name": "Nose for a story",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> At the start of a mission, roll Edge.<br><br>During the mission, spend 1 hold to invoke one of the following effects:<br>• Ask one question from the <strong>research</strong> list<br>• Take +1 forward when <strong>monstering</strong><br>• Find a piece of evidence that links this mission to a current story; start a Story Clock and a linked Noise Clock or roll to <strong>gather evidence</strong>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>gain 3 hold</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>gain 1 hold</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Reporter",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!2e904051032116b6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

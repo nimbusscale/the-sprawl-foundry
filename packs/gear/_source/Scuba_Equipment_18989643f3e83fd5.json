@@ -1,0 +1,31 @@
+{
+  "_id": "18989643f3e83fd5",
+  "name": "Scuba Equipment",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Breathing apparatus and gear for operating underwater.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!18989643f3e83fd5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

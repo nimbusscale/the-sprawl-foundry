@@ -1,0 +1,25 @@
+{
+  "_id": "c5d89780f0bf2e49",
+  "name": "messy",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>Fire effect is inconsistent throughout the area of effect, but it makes a mess of people and things that it hits. If a messy weapon is +loud, it cannot be silenced.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c5d89780f0bf2e49",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

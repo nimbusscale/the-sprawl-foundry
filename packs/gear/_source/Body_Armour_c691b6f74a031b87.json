@@ -1,0 +1,31 @@
+{
+  "_id": "c691b6f74a031b87",
+  "name": "Body Armour",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>2-armour</p>",
+    "equipmentType": "armor",
+    "tags": "[\"2-armour\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c691b6f74a031b87",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

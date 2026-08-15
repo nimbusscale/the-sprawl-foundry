@@ -1,0 +1,52 @@
+{
+  "_id": "040914402e1fb27e",
+  "name": "Assess",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you closely study a person, place or situation, or when you quickly size up an opponent or a charged situation, roll Edge.<br><br>In the ensuing action, you may spend 1 hold at any time to ask the MC a question from the list below if your examination could have revealed the answer. The MC may ask you questions to clarify your intent. Take +1 forward when acting on the answers.<br>• What potential complication do I need to be wary of?<br>• What do I notice despite an effort to conceal it?<br>• How is ______ vulnerable to me?<br>• How can I avoid trouble or hide here?<br>• What is my best way in/way out/way past?<br>• Where can I gain the most advantage?<br>• Who or what is my biggest threat in this situation?<br>• Who or what is in control here?</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain 3 hold.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain 1 hold.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!040914402e1fb27e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

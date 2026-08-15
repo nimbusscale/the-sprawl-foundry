@@ -1,0 +1,31 @@
+{
+  "_id": "12f0820ef03ac1c4",
+  "name": "Silencer or Sound Suppressor",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A weapon equipped with a silencer or sound suppressor removes the loud tag. A +messy or +breach weapon cannot be silenced.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!12f0820ef03ac1c4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

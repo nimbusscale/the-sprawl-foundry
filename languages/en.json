@@ -1,0 +1,135 @@
+{
+  "sprawl": {
+    "rollResults": {
+      "success": "Strong Hit",
+      "partial": "Weak Hit",
+      "failure": "Miss"
+    },
+    "character": {
+      "stats": {
+        "cool": "Cool",
+        "edge": "Edge",
+        "meat": "Meat",
+        "mind": "Mind",
+        "style": "Style",
+        "synth": "Synth"
+      },
+      "attrTop": {
+        "harm": {
+          "label": "Harm Clock",
+          "description": "Fill segments when you take harm. 1500/1800/2100: treatable with first aid. 2200/2300: needs a professional. 0000: acquire agricultural property."
+        },
+        "armor": {
+          "label": "Armor",
+          "description": "Reduce incoming harm by this value before filling your Harm Clock."
+        },
+        "cred": {
+          "label": "Cred",
+          "description": "Abstract currency for gear, cyberware, and services."
+        },
+        "xp": {
+          "label": "XP",
+          "description": "Mark experience toward your directives. At 10, take an advance."
+        }
+      },
+      "attrLeft": {
+        "look": {
+          "label": "Look"
+        },
+        "directives": {
+          "label": "Directives",
+          "description": "Your two Personal Directives plus the current Mission Directives."
+        },
+        "links": {
+          "label": "Links",
+          "description": "Your relationships with the other characters. Roll Links to help or interfere."
+        },
+        "contacts": {
+          "label": "Contacts",
+          "description": "People you can go to for help. Roll Style to hit the street."
+        },
+        "intel": {
+          "label": "[Intel]",
+          "description": "Hold gained during Legwork. Spend to reveal knowledge."
+        },
+        "gearHold": {
+          "label": "[Gear]",
+          "description": "Hold gained during Legwork. Spend to produce equipment."
+        },
+        "vehicles": {
+          "label": "Vehicles & Drones",
+          "description": "Your cyber-linked vehicles and drones, with their strengths, looks, and weaknesses."
+        },
+        "cyberdeck": {
+          "label": "Cyberdeck",
+          "description": "Your deck and its matrix capabilities."
+        }
+      },
+      "moveTypes": {
+        "basic": {
+          "label": "Basic Moves"
+        },
+        "playbook": {
+          "label": "Playbook Moves"
+        },
+        "matrix": {
+          "label": "Matrix Moves"
+        },
+        "directive": {
+          "label": "Directives"
+        }
+      },
+      "equipmentTypes": {
+        "weapon": {
+          "label": "Weapons"
+        },
+        "armor": {
+          "label": "Armor"
+        },
+        "gear": {
+          "label": "Gear"
+        },
+        "cyberware": {
+          "label": "Cyberware"
+        }
+      }
+    },
+    "npc": {
+      "attrTop": {
+        "harm": {
+          "label": "Harm Clock",
+          "description": "This threat's harm track."
+        },
+        "armor": {
+          "label": "Armor"
+        }
+      },
+      "attrLeft": {
+        "threatType": {
+          "label": "Threat Type",
+          "description": "Group, Loner, Place, Headline, etc."
+        },
+        "instinct": {
+          "label": "Instinct / Want",
+          "description": "What this threat wants and how it acts."
+        },
+        "tags": {
+          "label": "Tags"
+        }
+      },
+      "moveTypes": {
+        "custom": {
+          "label": "Moves"
+        }
+      },
+      "equipmentTypes": {
+        "weapon": {
+          "label": "Weapons"
+        },
+        "gear": {
+          "label": "Gear"
+        }
+      }
+    }
+  }
+}

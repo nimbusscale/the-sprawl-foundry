@@ -1,0 +1,31 @@
+{
+  "_id": "ed6fb302853b527f",
+  "name": "Cyberlegs",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Replacement legs can be prosthetic replacements or elective enhancements. Elective models allow super-human athletic abilities, especially running speed and jumping distance.<br><br>• When your enhanced athleticism could help you act under pressure, take +1 forward. If you roll a 12+ when acting under pressure, gain 1 hold which you can spend as described in the move assess.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ed6fb302853b527f",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

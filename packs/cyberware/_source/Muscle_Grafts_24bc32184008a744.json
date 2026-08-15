@@ -1,0 +1,31 @@
+{
+  "_id": "24bc32184008a744",
+  "name": "Muscle Grafts",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Synthetic fibres are grafted into human muscle to increase muscular strength, flexibility, and resilience.<br><br>• When you mix it up with a melee weapon, you may roll Synth instead of Meat and may also inflict +1 harm.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!24bc32184008a744",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "9f222e7935c375df",
+  "name": "MDI Kodiak",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Assault drone. Large tracked rugged off-road uncomplaining armed:assault cannon (4-harm near/far area messy breach) magnification obvious loud.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"large\",\"tracked\",\"rugged\",\"off-road\",\"uncomplaining\",\"armed\",\"magnification\",\"obvious\",\"loud\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!9f222e7935c375df",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "920533089ca1b8ae",
+  "name": "Pusher",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "pusher",
+    "description": "<p>Ideology is everywhere. If you don't see it and try to control it, you're a puppet of those who do. You believe in something bigger than the daily grind of life in The Sprawl. You have a cause, a vision, or a mission... Perhaps it's a higher ideal: political change, social justice, revolution! Maybe it's simply to be the top dog in the junkyard. Whatever it is, when you start talking, people listen.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!920533089ca1b8ae",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

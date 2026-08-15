@@ -1,0 +1,52 @@
+{
+  "_id": "c2cfd8b001ec9809",
+  "name": "Login",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you attempt to gain access to a system, roll Synth.</p>",
+    "requiresMove": "",
+    "moveType": "matrix",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You're in clean.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You're in, but choose one:<br>• Passive trace (+1 trace)<br>• ICE is activated<br>• An alert is triggered (advance the active Mission Clock)<br>• Your access is restricted - take -1 ongoing to matrix moves in this system while your access is restricted</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You're in, but the MC chooses two.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "synth",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c2cfd8b001ec9809",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

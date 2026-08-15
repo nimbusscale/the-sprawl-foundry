@@ -1,0 +1,25 @@
+{
+  "_id": "9e6376dd8e88248d",
+  "name": "AP",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The target of AP (armour-piercing) rounds subtracts 2 from their armour value.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!9e6376dd8e88248d",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

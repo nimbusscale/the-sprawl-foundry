@@ -1,0 +1,31 @@
+{
+  "_id": "f033f7b74ceeb15f",
+  "name": "Basic Cyberdeck",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Divides 5 points among Hardening, Firewall, Processor, and Stealth, with no rating lower than 0 or higher than 2. Runs a number of programs equal to its Processor rating.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"cyberdeck\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!f033f7b74ceeb15f",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

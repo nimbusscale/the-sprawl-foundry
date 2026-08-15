@@ -1,0 +1,31 @@
+{
+  "_id": "beee849b0c6d87cb",
+  "name": "Crossbow or Hunting Bow",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>2-harm close/near/far reload</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"2-harm\",\"close\",\"near\",\"far\",\"reload\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!beee849b0c6d87cb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

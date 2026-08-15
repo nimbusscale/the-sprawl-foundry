@@ -1,0 +1,52 @@
+{
+  "_id": "5ec89333538c9629",
+  "name": "Jack Out",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you, your programs, or your deck are about to be damaged by ICE, you can try to jack out. Roll Cool.</p>",
+    "requiresMove": "",
+    "moveType": "matrix",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You disconnect yourself from the system before any serious harm occurs.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You jack out, but choose one:<br>• You lose some data<br>• You take some of the established consequences<br>• The owners of the target system trace you to your current location</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You take the established consequences... and you're still connected.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "cool",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!5ec89333538c9629",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

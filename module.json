@@ -1,0 +1,199 @@
+{
+  "id": "the-sprawl",
+  "title": "The Sprawl",
+  "description": "The Sprawl (cyberpunk PbtA) custom sheets and compendium module, for use with Asacolips' Powered by the Apocalypse system.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "jjk3"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pbta",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.1.16"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "./module/the-sprawl.mjs"
+  ],
+  "styles": [
+    "styles/the-sprawl.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "./languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "label": "Basic Moves",
+      "type": "Item",
+      "name": "basic-moves",
+      "path": "packs/basic-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Matrix Moves",
+      "type": "Item",
+      "name": "matrix-moves",
+      "path": "packs/matrix-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Directives",
+      "type": "Item",
+      "name": "directives",
+      "path": "packs/directives",
+      "system": "pbta"
+    },
+    {
+      "label": "Driver Moves",
+      "type": "Item",
+      "name": "driver-moves",
+      "path": "packs/driver-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Fixer Moves",
+      "type": "Item",
+      "name": "fixer-moves",
+      "path": "packs/fixer-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Hacker Moves",
+      "type": "Item",
+      "name": "hacker-moves",
+      "path": "packs/hacker-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Hunter Moves",
+      "type": "Item",
+      "name": "hunter-moves",
+      "path": "packs/hunter-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Infiltrator Moves",
+      "type": "Item",
+      "name": "infiltrator-moves",
+      "path": "packs/infiltrator-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Killer Moves",
+      "type": "Item",
+      "name": "killer-moves",
+      "path": "packs/killer-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Pusher Moves",
+      "type": "Item",
+      "name": "pusher-moves",
+      "path": "packs/pusher-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Reporter Moves",
+      "type": "Item",
+      "name": "reporter-moves",
+      "path": "packs/reporter-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Soldier Moves",
+      "type": "Item",
+      "name": "soldier-moves",
+      "path": "packs/soldier-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Tech Moves",
+      "type": "Item",
+      "name": "tech-moves",
+      "path": "packs/tech-moves",
+      "system": "pbta"
+    },
+    {
+      "label": "Cyberware",
+      "type": "Item",
+      "name": "cyberware",
+      "path": "packs/cyberware",
+      "system": "pbta"
+    },
+    {
+      "label": "Gear",
+      "type": "Item",
+      "name": "gear",
+      "path": "packs/gear",
+      "system": "pbta"
+    },
+    {
+      "label": "Tags",
+      "type": "Item",
+      "name": "tags",
+      "path": "packs/tags",
+      "system": "pbta"
+    },
+    {
+      "label": "Playbooks",
+      "type": "Item",
+      "name": "playbooks",
+      "path": "packs/playbooks",
+      "system": "pbta"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Core Moves",
+      "packs": [
+        "basic-moves",
+        "matrix-moves",
+        "directives"
+      ]
+    },
+    {
+      "name": "Playbook Moves",
+      "packs": [
+        "driver-moves",
+        "fixer-moves",
+        "hacker-moves",
+        "hunter-moves",
+        "infiltrator-moves",
+        "killer-moves",
+        "pusher-moves",
+        "reporter-moves",
+        "soldier-moves",
+        "tech-moves"
+      ]
+    },
+    {
+      "name": "Equipment",
+      "packs": [
+        "cyberware",
+        "gear",
+        "tags"
+      ]
+    },
+    {
+      "name": "Playbooks",
+      "packs": [
+        "playbooks"
+      ]
+    }
+  ]
+}

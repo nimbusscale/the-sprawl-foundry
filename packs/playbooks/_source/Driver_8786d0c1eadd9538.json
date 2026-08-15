@@ -1,0 +1,27 @@
+{
+  "_id": "8786d0c1eadd9538",
+  "name": "Driver",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "driver",
+    "description": "<p>Wheelman, transporter, drone jockey. A sleek coupe, a rumbling hog, a drone-rigged panel van or a radar-baffled ex-military whirlybird - when you jack in and feel the wind rushing over your exterior panelling, you are a god and the vehicle is your avatar. When the job goes smooth it's the easiest gig there is - a Sunday drive with grandma - but when things turn sour and the team needs a quick exit, well, that's where you earn your Cred.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8786d0c1eadd9538",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

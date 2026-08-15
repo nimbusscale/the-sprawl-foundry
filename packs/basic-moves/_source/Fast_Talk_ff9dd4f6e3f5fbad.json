@@ -1,0 +1,52 @@
+{
+  "_id": "ff9dd4f6e3f5fbad",
+  "name": "Fast Talk",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you try to convince someone to do what you want with promises, lies or bluster, roll Style.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>NPCs do what you want. PCs choose whether to do it or not. If they do, they mark experience. If they don't, they must act under pressure to go against your stated wishes.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>NPCs do it, but someone will find out: the MC will advance the appropriate Countdown Clock. For PCs choose one:<br>• If they do what you want, they mark experience<br>• If they don't do it, they must act under pressure to go against your stated wishes<br><br>Then it's up to them.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "style",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ff9dd4f6e3f5fbad",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

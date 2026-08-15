@@ -1,0 +1,31 @@
+{
+  "_id": "3bd51e0adf71b26c",
+  "name": "Shanghai Mobile Eagle Eye",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Infiltration drone. Small fixed-wing autonomous magnification thermographic slow.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"small\",\"fixed-wing\",\"autonomous\",\"magnification\",\"thermographic\",\"slow\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!3bd51e0adf71b26c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

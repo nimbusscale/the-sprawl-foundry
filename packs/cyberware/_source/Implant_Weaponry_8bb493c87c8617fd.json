@@ -1,0 +1,31 @@
+{
+  "_id": "8bb493c87c8617fd",
+  "name": "Implant Weaponry",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Retractable or internally concealed weapons can be mounted directly into the human body with appropriate structural anchoring and heat dissipation mechanisms. These include both regular weapons optimised for internal use or storage blades as well as specialised weapons like the chest-stored, orally-deployed, \"cybersnakes\" favoured by certain corporate honey-trap assassins.<br><br>Either:<br>• retractable blades (2-harm hand messy implant)<br>• a holdout firearm (2-harm close loud implant)<br>• a monofilament whip (4-harm hand messy area dangerous implant)<br>• internal assassination implant (4-harm intimate slow implant)</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8bb493c87c8617fd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "015e4df52f1298f6",
+  "name": "Fragmentation Grenade",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>4-harm near area reload loud messy. At ranges intimate/hand/close, grenades are +dangerous.</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"4-harm\",\"near\",\"area\",\"reload\",\"loud\",\"messy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!015e4df52f1298f6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

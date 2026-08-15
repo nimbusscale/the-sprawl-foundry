@@ -1,0 +1,52 @@
+{
+  "_id": "c7074a373a63b4b8",
+  "name": "Research",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you investigate a person, place, object, or service using a library, dossier or database (or combination of them), ask a question from the list below and roll Mind.<br>• Where would I find ______?<br>• How secure is ______?<br>• Who or what is related to ______?<br>• Who owned or employed ______?<br>• Who or what is ______ most valuable to?<br>• What is the relationship between ______ and ______?</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Take [intel]; the MC will answer your question and answer a follow-up question from the list as well.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Take [intel]; the MC will answer your question.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>The MC will answer your question... and make a move.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "mind",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c7074a373a63b4b8",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

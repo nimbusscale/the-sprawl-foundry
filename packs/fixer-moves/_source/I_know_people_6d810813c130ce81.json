@@ -1,0 +1,52 @@
+{
+  "_id": "6d810813c130ce81",
+  "name": "I know people",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Once per mission you may introduce a new Contact. Name the contact, say what they do, then roll Style.<br><br>After you've rolled, describe how you contact them; the MC will ask some questions.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You've worked with the contact before; they have talent. Write them down as a Contact.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You've never met them before, they're an unknown quantity.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You know them all right. Tell the MC why they dislike you.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Fixer",
+    "rollType": "style",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!6d810813c130ce81",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

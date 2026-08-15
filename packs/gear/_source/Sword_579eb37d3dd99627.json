@@ -1,0 +1,31 @@
+{
+  "_id": "579eb37d3dd99627",
+  "name": "Sword",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>3-harm hand messy</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"3-harm\",\"hand\",\"messy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!579eb37d3dd99627",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

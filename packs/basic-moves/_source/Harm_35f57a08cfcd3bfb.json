@@ -1,0 +1,52 @@
+{
+  "_id": "35f57a08cfcd3bfb",
+  "name": "Harm",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you suffer harm (even 0-harm or s-harm) lower the harm suffered by the level of your armour (if any), fill in a number of segments on your Harm Clock equal to the remaining harm, and roll harm suffered.<br><br>Note that the dice results for harm are reversed; low is successful and high is complicated.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Choose 1:<br>• You're out of action: unconscious, trapped, incoherent or panicked<br>• Take the full harm of the attack, before it was reduced by armour; if you already took the full harm of the attack, take +1-harm<br>• Lose the use of a piece of cyberware until you can get it repaired<br>• Lose a body part (arm, leg, eye)</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>The MC will choose 1:<br>• You lose your footing<br>• You lose your grip on whatever you're holding<br>• You lose track of someone or something you're attending to<br>• Someone gets the drop on you</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!35f57a08cfcd3bfb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

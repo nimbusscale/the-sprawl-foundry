@@ -1,0 +1,31 @@
+{
+  "_id": "1974be3b7a7c73f4",
+  "name": "Neural Interface",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A headware interface that translates the brain's neural signals into machine control impulses. This allows a user to control an appropriately configured external device such as a vehicle, mounted weapon, recording device, or hacked electronic system at instinctive neural speeds.<br><br>• You may take the Driver move second skin as an advance.<br>• You may take the Hacker move jack in as an advance.<br><br>Choose one of the following options. Additional choices can be added to the headware system later in the same way as adding a new piece of cyberware.<br><br>• Data Storage: A neural interface that allows speed-of-thought communication between the user's brain and a Matrix-capable computer system. These systems usually include a useful quantity of headware storage capacity. When you use research to search internally or externally stored data, gain an extra [intel] on a hit. Choose two of the following tags: inaccessible partition, encrypted, high capacity, high speed.<br>• Remote Control Module: An interface which includes wireless broadcast and reception capacity allowing remote control of vehicles and drones. When you have a remote control module installed, choose two of the following tags: encrypted, multi-tasking, inaccessible partition.<br>• Targeting Suite: Uses a direct neural link between a hand-held gun and user to project targeting information into the user's vision. When you fire a weapon you are linked to, you may inflict additional harm equal to your Synth. You may also roll Synth instead of Meat to mix it up. You may precisely define the area of effect for weapons with the autofire tag to exclude or include potential targets from weapon damage.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!1974be3b7a7c73f4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

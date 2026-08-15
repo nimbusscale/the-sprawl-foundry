@@ -1,0 +1,25 @@
+{
+  "_id": "40ba9bfea3f2c90b",
+  "name": "area",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The weapon harms everyone in the area of effect.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!40ba9bfea3f2c90b",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

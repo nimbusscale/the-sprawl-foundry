@@ -1,0 +1,31 @@
+{
+  "_id": "03df8ca5488fe6d1",
+  "name": "Monofilament Whip",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>4-harm hand messy area dangerous</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"4-harm\",\"hand\",\"messy\",\"area\",\"dangerous\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!03df8ca5488fe6d1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "07101be55cdeb1b4",
+  "name": "Cat burglar",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>You specialise in infiltrating by unconventional access points and manoeuvring through locations by unconventional routes. During your infiltration, you will have opportunity to steal incidental portable items that might be useful later. After you have spent all your <strong>covert entry</strong> hold infiltrating a secure area through stealth and dexterity, gain [gear].</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Infiltrator",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!07101be55cdeb1b4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "962831686129dc18",
+  "name": "Vision thing",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> When you have time and space for an emotional connection with someone and you passionately advocate for your vision, roll Style.<br><br>Spend 1 hold to have the targeted NPCs:<br>• give you something you want<br>• do something you ask<br>• fight to protect you or your cause<br>• disobey an order given by someone with authority or leverage over them<br><br>When you use this move on a PC, spend your hold to help or interfere as if you had rolled a 10+ (i.e. give them +1 or -2). If you miss against a PC, they gain 2 hold against you which they can use in the same way.",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>gain 2 hold</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>gain 1 hold</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Pusher",
+    "rollType": "style",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!962831686129dc18",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

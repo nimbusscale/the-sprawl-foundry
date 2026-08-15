@@ -1,0 +1,52 @@
+{
+  "_id": "2974a2996a87b2fd",
+  "name": "Custom weapon",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Choose a base and two options. You may customise an implanted weapon; use the stats of the weapon as the base and add two appropriate options.<br><br>Base (choose 1, any firearm can be +linked):<br>• handgun(s) (2 damage close/near loud quick)<br>• shotgun (3 damage close/near loud messy)<br>• rifle (3 damage near/far/ex loud)<br>• blade (2 damage hand)<br>• chain or wire (1 damage close area)<br><br>Options (choose 2):<br>• ornate (+valuable)<br>• antique (+valuable +reload)<br>• automatic (+autofire)<br>• silenced (-loud)<br>• hi-powered or weighted (+1 damage)<br>• big or dangerous (+1 damage)<br>• versatile (may inflict s-harm)<br>• ridiculous payload (+breach, +dangerous)<br>• subtle (+discreet, +reload)<br>• +numerous (small weapons only)<br><br>When you've finished creating your weapon, name it.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Killer",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!2974a2996a87b2fd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

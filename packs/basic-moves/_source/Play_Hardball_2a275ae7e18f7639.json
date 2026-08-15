@@ -1,0 +1,52 @@
+{
+  "_id": "2a275ae7e18f7639",
+  "name": "Play Hardball",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you get in someone's face threatening violence and you intend to carry through, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>NPCs do what you want. PCs choose: do what you want, or suffer the established consequences.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>For NPCs, the MC chooses 1:<br>• they attempt to remove you as a threat, but not before suffering the established consequences<br>• they do it, but they want payback. Add them as a Threat<br>• they do it, but tell someone all about it. Advance the appropriate Mission Clock<br><br>PCs choose: do what you want, or suffer the established consequences. They gain +1 forward to act against you.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!2a275ae7e18f7639",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

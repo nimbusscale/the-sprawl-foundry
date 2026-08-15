@@ -1,0 +1,31 @@
+{
+  "_id": "3e1aeacdfdd7d87b",
+  "name": "Airburst Rounds",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Explode in the air near a target by proximity or targeting suite. A weapon loaded with airburst rounds adds the +area and +messy tags.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"area\",\"messy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!3e1aeacdfdd7d87b",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "af74b4da1b88eac7",
+  "name": "Surgery or Portable Operating Room",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Allows treatment of life-threatening injuries and implantation of cyberware.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!af74b4da1b88eac7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

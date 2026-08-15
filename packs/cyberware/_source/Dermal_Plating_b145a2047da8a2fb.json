@@ -1,0 +1,31 @@
+{
+  "_id": "b145a2047da8a2fb",
+  "name": "Dermal Plating",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Sub-dermal plates of synthetic armour placed over critical internal organs.<br><br>• When you make the harm move, subtract 2 from your roll. Subtract 3 from your roll if the harm came from a weapon with the flechette tag.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!b145a2047da8a2fb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

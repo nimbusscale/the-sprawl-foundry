@@ -1,0 +1,52 @@
+{
+  "_id": "78f24d23d3e120af",
+  "name": "Slippery",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>At the end of a mission during which you planted or hid evidence to shift blame away from you and your team, name who you threw under the corporate bus and roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>the MC will not increase Corporate Clocks in the retaliation phase, and the MC will reduce a Corporate Clock by one</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>the MC will not increase Corporate Clocks in the retaliation phase</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>create or increase the Threat Clock of whoever you threw under the bus</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Soldier",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!78f24d23d3e120af",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

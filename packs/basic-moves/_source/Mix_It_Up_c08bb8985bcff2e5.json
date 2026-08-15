@@ -1,0 +1,52 @@
+{
+  "_id": "c08bb8985bcff2e5",
+  "name": "Mix It Up",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you use violence against an armed force to seize control of an objective, state that objective and roll Meat.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You achieve your objective.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You achieve your objective, but choose 2:<br>• you make too much noise. Advance the relevant Mission Clock<br>• you take harm as established by the fiction<br>• an ally takes harm as established by the fiction<br>• something of value breaks</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "meat",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c08bb8985bcff2e5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

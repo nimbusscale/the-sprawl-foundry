@@ -1,0 +1,31 @@
+{
+  "_id": "55b5a436e5c5674e",
+  "name": "Titan Colossus III (Panzer)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A loud, armoured vectored-thrust panzer.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"loud\",\"armoured\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!55b5a436e5c5674e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

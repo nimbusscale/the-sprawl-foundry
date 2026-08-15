@@ -1,0 +1,52 @@
+{
+  "_id": "d35010a010d5708e",
+  "name": "Hot shit driver",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you're driving a cyber-linked vehicle in a high-pressure situation, roll Edge.<br><br>You may spend 1 hold to do one of the following:<br>• Avoid one external danger (a rocket, a burst of gunfire, a collision, etc)<br>• Escape one pursuing vehicle<br>• Maintain control of the vehicle<br>• Impress, dismay or frighten someone</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain 3 hold.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain 1 hold.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Driver",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d35010a010d5708e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "84b800a60d0a8aa7",
+  "name": "Cyberarm",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Replacement arms can be prosthetic replacements or elective enhancements. The former replace standard human abilities, while the latter supplement particular abilities or incorporate tools into the human body, often enhancing precision through neuro-mechanical control. Cyberarms are available in a variety of aesthetic presentations, ranging from overtly synthetic or mechanical to visually indistinguishable from human.<br><br>Choose one of the following options. Additional choices can be added to the cyberarm later in the same way as adding a new piece of cyberware.<br><br>• Augmented Strength: +2 harm when using a melee weapon that relies on physical strength.<br>• Implant Tools: When you have time and space to interface with a device you are attempting to fix, bypass, or tamper with, take +1 forward.<br>• Implant Weaponry: Either retractable blades (2-harm hand messy implant), a holdout firearm (2-harm close loud implant), or a monofilament whip (4-harm hand messy area dangerous implant).</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!84b800a60d0a8aa7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

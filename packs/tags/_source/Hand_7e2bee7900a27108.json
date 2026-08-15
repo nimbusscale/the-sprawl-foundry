@@ -1,0 +1,25 @@
+{
+  "_id": "7e2bee7900a27108",
+  "name": "Hand",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The optimum range for the weapon: close enough to touch.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!7e2bee7900a27108",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

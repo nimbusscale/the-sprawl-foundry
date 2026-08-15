@@ -1,0 +1,31 @@
+{
+  "_id": "9ab351e9c875a891",
+  "name": "Recording Equipment",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>+audio, +video. Optional tags: +simsense, +discreet, +encrypted.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"audio\",\"video\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!9ab351e9c875a891",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

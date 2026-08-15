@@ -1,0 +1,31 @@
+{
+  "_id": "200dc91c3b98c3a4",
+  "name": "Advanced Cyberdeck",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Divides 6 or more points among Hardening, Firewall, Processor, and Stealth, with no rating higher than 3. Runs a number of programs equal to its Processor rating.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"cyberdeck\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!200dc91c3b98c3a4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "a8286d53becad562",
+  "name": "Synthetic Nerves",
+  "type": "equipment",
+  "img": "icons/svg/circuitry.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>The replacement of significant parts of the nervous system can drastically increase reaction time. Users react so quickly that they can almost dodge bullets.<br><br>• If none of your enemies have synth nerves, take +1 forward to mix it up. In situations where reaction time is critical, take +1 forward to act under pressure.</p>",
+    "equipmentType": "cyberware",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a8286d53becad562",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

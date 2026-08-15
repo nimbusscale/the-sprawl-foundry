@@ -1,0 +1,52 @@
+{
+  "_id": "bb6478fe7a168f1c",
+  "name": "Serious badass",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you enter a charged situation, roll Style.<br><br>Spend 1 hold to make eye contact with an NPC present, who freezes or flinches and can't act until you break it off.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Gain 2 hold.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Gain 1 hold.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>Your enemies identify you immediately as their foremost threat.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Killer",
+    "rollType": "style",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!bb6478fe7a168f1c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

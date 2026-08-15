@@ -1,0 +1,31 @@
+{
+  "_id": "9d9e8aed0ab580a6",
+  "name": "Shanghai Mobile Packmate",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Assault drone. Medium wheeled rugged off-road armed:assault rifle (3-harm near loud autofire) thermographic.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"medium\",\"wheeled\",\"rugged\",\"off-road\",\"armed\",\"thermographic\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!9d9e8aed0ab580a6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

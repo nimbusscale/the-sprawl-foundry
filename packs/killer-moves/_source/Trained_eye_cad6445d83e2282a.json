@@ -1,0 +1,52 @@
+{
+  "_id": "cad6445d83e2282a",
+  "name": "Trained eye",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you evaluate a person, vehicle, drone or gang, roll Cool.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Ask the target \"How are you vulnerable to me?\" Take +1 forward when acting on the answer. Additionally, gain +1 ongoing when acting against that target.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Ask the target \"How are you vulnerable to me?\" Take +1 forward when acting on the answer.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Killer",
+    "rollType": "cool",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!cad6445d83e2282a",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

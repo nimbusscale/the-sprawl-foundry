@@ -1,0 +1,27 @@
+{
+  "_id": "83a1451f54607fd1",
+  "name": "Tech",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "tech",
+    "description": "<p>Hackers get all the glory, but you're the one who actually gets things done. Cyberdeck took a couple of pellets from that security team? Call the Tech. Need a bus wired to blow? Call the Tech. Need to lay twenty-two klicks of hardline from the grid to your desert hide? Call the effin' Tech. At least the jobs pay better than crawling around ductwork in a Sprawl tenement.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!83a1451f54607fd1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

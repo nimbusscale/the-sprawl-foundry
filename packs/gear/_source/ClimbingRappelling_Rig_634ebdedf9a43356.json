@@ -1,0 +1,31 @@
+{
+  "_id": "634ebdedf9a43356",
+  "name": "Climbing/Rappelling Rig",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Rope, harness and hardware for climbing and rappelling.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!634ebdedf9a43356",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

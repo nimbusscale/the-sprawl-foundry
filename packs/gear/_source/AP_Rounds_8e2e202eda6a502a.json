@@ -1,0 +1,31 @@
+{
+  "_id": "8e2e202eda6a502a",
+  "name": "AP Rounds",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Penetrate armour more easily. A weapon loaded with AP rounds adds the +AP tag.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"AP\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8e2e202eda6a502a",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

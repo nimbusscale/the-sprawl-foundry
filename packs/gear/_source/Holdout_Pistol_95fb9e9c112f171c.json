@@ -1,0 +1,31 @@
+{
+  "_id": "95fb9e9c112f171c",
+  "name": "Holdout Pistol",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>2-harm hand/close discreet quick reload loud</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"2-harm\",\"hand\",\"close\",\"discreet\",\"quick\",\"reload\",\"loud\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!95fb9e9c112f171c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

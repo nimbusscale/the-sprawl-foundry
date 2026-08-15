@@ -1,0 +1,52 @@
+{
+  "_id": "1928fb58422e8b91",
+  "name": "Get the Job",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you negotiate the terms of a job, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>Choose 3 from the list below:<br>• the employer provides useful information [intel]<br>• the employer provides useful assets [gear]<br>• the job pays well<br>• the meeting doesn't attract attention<br>• the employer is identifiable</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>Choose 1 from the list below:<br>• the employer provides useful information [intel]<br>• the employer provides useful assets [gear]<br>• the job pays well<br>• the meeting doesn't attract attention<br>• the employer is identifiable</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!1928fb58422e8b91",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

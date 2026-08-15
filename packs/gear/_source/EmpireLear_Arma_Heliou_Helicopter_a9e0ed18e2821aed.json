@@ -1,0 +1,31 @@
+{
+  "_id": "a9e0ed18e2821aed",
+  "name": "Empire-Lear Arma Heliou (Helicopter)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A luxurious helicopter.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"luxurious\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a9e0ed18e2821aed",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

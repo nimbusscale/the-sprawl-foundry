@@ -1,0 +1,25 @@
+{
+  "_id": "67a0d1ef68cdf9c4",
+  "name": "numerous",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>These are easy to hide (+discreet) and there are always more around when needed.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!67a0d1ef68cdf9c4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

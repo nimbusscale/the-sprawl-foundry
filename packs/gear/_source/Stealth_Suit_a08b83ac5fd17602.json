@@ -1,0 +1,31 @@
+{
+  "_id": "a08b83ac5fd17602",
+  "name": "Stealth Suit",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>+1 ongoing to avoid being detected while hidden and alone.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a08b83ac5fd17602",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

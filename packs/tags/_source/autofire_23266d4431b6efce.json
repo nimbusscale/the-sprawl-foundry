@@ -1,0 +1,25 @@
+{
+  "_id": "23266d4431b6efce",
+  "name": "autofire",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>The user can opt to temporarily give the weapon +area and +reload. If the weapon is belt-fed, the user can opt to temporarily give the weapon +area only.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!23266d4431b6efce",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

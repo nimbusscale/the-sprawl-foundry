@@ -1,0 +1,31 @@
+{
+  "_id": "62c1dfead950bffe",
+  "name": "MDI Night Creeper",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Infiltration and interdiction drone. Small octoped stealthy jamming thermographic fragile.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"small\",\"octoped\",\"stealthy\",\"jamming\",\"thermographic\",\"fragile\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!62c1dfead950bffe",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

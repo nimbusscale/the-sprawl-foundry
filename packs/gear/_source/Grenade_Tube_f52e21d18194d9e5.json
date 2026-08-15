@@ -1,0 +1,31 @@
+{
+  "_id": "f52e21d18194d9e5",
+  "name": "Grenade Tube",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>4-harm near area reload loud messy</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"4-harm\",\"near\",\"area\",\"reload\",\"loud\",\"messy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!f52e21d18194d9e5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

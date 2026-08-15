@@ -1,0 +1,52 @@
+{
+  "_id": "c9b77db21287456a",
+  "name": "Melt ICE",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you attempt to evade, destroy or disable an activated ICE construct, roll Edge.</p>",
+    "requiresMove": "",
+    "moveType": "matrix",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You evade, destroy, or temporarily disable the system, your choice.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You evade, destroy, or temporarily disable the system, your choice, but the system successfully executes a routine before you can disable it.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c9b77db21287456a",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

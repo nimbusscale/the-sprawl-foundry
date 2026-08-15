@@ -1,0 +1,25 @@
+{
+  "_id": "c7a16b98e0c5435e",
+  "name": "reload",
+  "type": "tag",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "description": "<p>After firing, the user must spend a brief time reloading.</p>"
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!c7a16b98e0c5435e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

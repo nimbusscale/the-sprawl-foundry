@@ -1,0 +1,31 @@
+{
+  "_id": "d123458108a3cf9e",
+  "name": "Gas Grenade",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>s-harm near area reload gas. At ranges intimate/hand/close, grenades are +dangerous.</p>",
+    "equipmentType": "weapon",
+    "tags": "[\"s-harm\",\"near\",\"area\",\"reload\",\"gas\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!d123458108a3cf9e",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

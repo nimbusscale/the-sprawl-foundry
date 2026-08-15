@@ -1,0 +1,31 @@
+{
+  "_id": "a4bb60f044b01884",
+  "name": "Vision Enhancing Devices",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Glasses, goggles, scopes. Basic models have one or two tags, more advanced models can have more. Available tags: +thermographic, +light amplification, +magnification, +recording, +flare compensation. The feed can be sent to a remote or local display through communications gear.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a4bb60f044b01884",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

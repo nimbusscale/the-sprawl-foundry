@@ -1,0 +1,31 @@
+{
+  "_id": "cfe0cbc58a1f72b6",
+  "name": "Zhuangzi She (Sports Car)",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>A flashy sports car.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"vehicle\",\"flashy\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!cfe0cbc58a1f72b6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

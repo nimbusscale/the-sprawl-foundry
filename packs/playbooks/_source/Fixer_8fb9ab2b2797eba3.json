@@ -1,0 +1,27 @@
+{
+  "_id": "8fb9ab2b2797eba3",
+  "name": "Fixer",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "slug": "fixer",
+    "description": "<p>No matter what people may want to believe, it's a personal world down here in the shadows. If someone wants something, it's not so important what it is; what matters is who you have to pay to get it and make no mistake, someone's always going to get paid one way or another. As a Fixer, you're a matchmaker; you make sure the right people get the merchandise and the right people get paid. Sometimes those people live and work in the same shadows as you. You can forge a career among the little people, trying to avoid the gaze and muscle of the megacorps.</p>",
+    "choiceSets": []
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8fb9ab2b2797eba3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

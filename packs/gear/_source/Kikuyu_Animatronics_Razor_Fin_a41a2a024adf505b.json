@@ -1,0 +1,31 @@
+{
+  "_id": "a41a2a024adf505b",
+  "name": "Kikuyu Animatronics Razor Fin",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Assault drone. Medium submarine fast stealthy armed:teeth (3-harm hand messy) sonar fragile.</p>",
+    "equipmentType": "gear",
+    "tags": "[\"drone\",\"medium\",\"submarine\",\"fast\",\"stealthy\",\"armed\",\"sonar\",\"fragile\"]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!a41a2a024adf505b",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

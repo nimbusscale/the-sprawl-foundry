@@ -1,0 +1,52 @@
+{
+  "_id": "99bf2bd5db4b17e6",
+  "name": "Live and on the air",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Starting Move.</strong> When you go live from the scene and broadcast a stream to avoid harm and expose your target, roll Edge.",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You get the shot you want and are \"escorted\" to a position of safety.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You get the shot you want and are \"escorted\" to a position of safety, but choose one:<br>• Your story irritates your target (the MC will advance a relevant Threat Clock)<br>• Someone on your team gets hurt off camera<br>• Your story angers your employer<br>• Your rushed narrative is misinterpreted by the public with unintended consequences</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Reporter",
+    "rollType": "edge",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!99bf2bd5db4b17e6",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

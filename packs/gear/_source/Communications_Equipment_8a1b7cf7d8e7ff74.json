@@ -1,0 +1,31 @@
+{
+  "_id": "8a1b7cf7d8e7ff74",
+  "name": "Communications Equipment",
+  "type": "equipment",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>Optional tags: +encrypted, +jamming, +satellite relay, +recording.</p>",
+    "equipmentType": "gear",
+    "tags": "[]",
+    "quantity": 1,
+    "weight": 0,
+    "uses": 0
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8a1b7cf7d8e7ff74",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}
