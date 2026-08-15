@@ -1,0 +1,6 @@
+# Back Cover
+
+<!-- p.252 -->
+> Glide through the most secure corporate computer networks // Crack the ICE that stands between you and that big score.. Drop your cyberlinked autoshotgun to the floor empty // Flick chrome blades from your fingers // Dive into the midst of that corporate response team to secure your team's exit.. Turn up your synth-leather jacket against the rain // Watch the back-alley entrance of the club for your target // Tail the armoured limo through the neon-bathed streets.. Cut power to the alarms // Drop over the wall into the compound // Slip past the auto-sentries // Locate and secure the prototype // Escape under the eyes of the rotor-drones.. Whatever your story, you are the extended assets of vast multinational corporations, operating in the criminal underground, and performing the tasks that those multinationals can't do -- or can't be seen to do. You are deniable, professional and -- ultimately - disposable. *The Sprawl* is a game of mission-based action in a gritty neon-and-chrome Cyberpunk future for an MC and 2-4 players.
+> Create your own Sprawl at the nexus of bleeding-edge technology & fragile humanity Play hardbitten professionals caught between ruthless corporate interests Win sometimes, lose sometimes and be double-crossed a lot
+> There are a thousand stories in *The Sprawl*. What's yours?
