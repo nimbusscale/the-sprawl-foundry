@@ -1,6 +1,6 @@
 {
-  "_id": "cba4b8b4416c7ae9",
-  "name": "Search optimisation",
+  "_id": "187bdec38e4c3300",
+  "name": "Cyberdeck: Toolbox Deck",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you research a topic in the Matrix, you may always ask a follow up question. On a 10+, take an additional [intel].</p>",
+    "description": "<p>A heavily customized collection of specialized hardware and software. Choose 4 programs instead of 2.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!cba4b8b4416c7ae9",
+  "_key": "!items!187bdec38e4c3300",
   "sort": 0,
   "ownership": {
     "default": 0

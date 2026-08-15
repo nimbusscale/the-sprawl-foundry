@@ -1,6 +1,6 @@
 {
-  "_id": "8f0529a6b9a7a18e",
-  "name": "ICE breaker",
+  "_id": "65104aecb3b469df",
+  "name": "Program: Safety Cutout",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>You know how to disable ICE quickly and quietly. Once per Matrix run you may cancel a routine executed against you, your deck, or your programs.</p>",
+    "description": "<p>When Black ICE would inflict physical harm on you, invoke Safety Cutout to take no harm. Your connection is immediately severed.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!8f0529a6b9a7a18e",
+  "_key": "!items!65104aecb3b469df",
   "sort": 0,
   "ownership": {
     "default": 0

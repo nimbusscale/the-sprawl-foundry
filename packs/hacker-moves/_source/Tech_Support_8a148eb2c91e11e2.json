@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "8a148eb2c91e11e2",
+  "name": "Tech Support",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>When you Help or Interfere through a system you've penetrated, roll Mind instead of Links.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!8a148eb2c91e11e2",
   "sort": 0,
   "ownership": {
     "default": 0

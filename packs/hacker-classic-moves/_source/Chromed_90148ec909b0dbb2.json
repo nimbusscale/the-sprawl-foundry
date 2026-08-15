@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "90148ec909b0dbb2",
+  "name": "Chromed",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>Choose another piece of cyberware at character creation or in downtime. Describe how you got it and paid for it the same as you did your first piece of cyberware.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -31,7 +31,7 @@
       }
     },
     "uses": 0,
-    "playbook": "Hacker",
+    "playbook": "Hacker (Classic)",
     "rollType": "",
     "rollMod": 0,
     "choices": ""
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!90148ec909b0dbb2",
   "sort": 0,
   "ownership": {
     "default": 0

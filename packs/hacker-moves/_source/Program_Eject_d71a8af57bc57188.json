@@ -1,6 +1,6 @@
 {
-  "_id": "ec83415d90c60dc6",
-  "name": "Console cowboy",
+  "_id": "d71a8af57bc57188",
+  "name": "Program: Eject",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you connect to a secure system, roll Mind.<br><br>While in that system, you may spend 1 hold for any of the following effects:<br>• Prevent a construct from triggering an alert<br>• Avoid an ICE routine executed against you, your deck, or your programs<br>• Increase your hold over compromised security or manipulated systems by 1</p>",
+    "description": "<p>When attempting an emergency disconnect, invoke Eject to take +1 forward to Act Under Pressure.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -17,12 +17,12 @@
       "success": {
         "key": "system.moveResults.success.value",
         "label": "10+",
-        "value": "<p>Gain 3 hold.</p>"
+        "value": ""
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "7-9",
-        "value": "<p>Gain 1 hold.</p>"
+        "value": ""
       },
       "failure": {
         "key": "system.moveResults.failure.value",
@@ -32,7 +32,7 @@
     },
     "uses": 0,
     "playbook": "Hacker",
-    "rollType": "mind",
+    "rollType": "",
     "rollMod": 0,
     "choices": ""
   },
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ec83415d90c60dc6",
+  "_key": "!items!d71a8af57bc57188",
   "sort": 0,
   "ownership": {
     "default": 0

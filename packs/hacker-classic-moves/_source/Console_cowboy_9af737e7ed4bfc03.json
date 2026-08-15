@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "9af737e7ed4bfc03",
+  "name": "Console cowboy",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>When you connect to a secure system, roll Mind.<br><br>While in that system, you may spend 1 hold for any of the following effects:<br>• Prevent a construct from triggering an alert<br>• Avoid an ICE routine executed against you, your deck, or your programs<br>• Increase your hold over compromised security or manipulated systems by 1</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -17,12 +17,12 @@
       "success": {
         "key": "system.moveResults.success.value",
         "label": "10+",
-        "value": ""
+        "value": "<p>Gain 3 hold.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "7-9",
-        "value": ""
+        "value": "<p>Gain 1 hold.</p>"
       },
       "failure": {
         "key": "system.moveResults.failure.value",
@@ -31,8 +31,8 @@
       }
     },
     "uses": 0,
-    "playbook": "Hacker",
-    "rollType": "",
+    "playbook": "Hacker (Classic)",
+    "rollType": "mind",
     "rollMod": 0,
     "choices": ""
   },
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!9af737e7ed4bfc03",
   "sort": 0,
   "ownership": {
     "default": 0

@@ -1,0 +1,52 @@
+{
+  "_id": "40596bde05ecc7b5",
+  "name": "Trace & ICE",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<strong>Trace.</strong> Each system starts at Trace 0.<br>• <strong>Trace 1:</strong> the system knows someone is inside.<br>• <strong>Trace 2:</strong> security is narrowing down who and where.<br>• <strong>Trace 3:</strong> you've been identified and physically located — expect Corporate Clocks, physical security, severed connections, and other appropriate MC moves.<br><br>Trace normally resets after the intrusion ends. Alerts, evidence, Corporate Clock advances, and angry corporations do not.<br><br><strong>ICE</strong> is opposition, not a separate combat system.<br>• <strong>Blue ICE</strong> traces you, raises alarms, locks you out, and summons help.<br>• <strong>Red ICE</strong> can also disable software or damage your equipment.<br>• <strong>Black ICE</strong> can also inflict physical harm or trap you online.<br><br>When ICE actively stands between you and your objective, Mix It Up, Act Under Pressure, spend Console Cowboy hold, use an appropriate move, or get out.",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Hacker",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!40596bde05ecc7b5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

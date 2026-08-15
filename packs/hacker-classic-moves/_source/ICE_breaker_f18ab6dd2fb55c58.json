@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "f18ab6dd2fb55c58",
+  "name": "ICE breaker",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>You know how to disable ICE quickly and quietly. Once per Matrix run you may cancel a routine executed against you, your deck, or your programs.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -31,7 +31,7 @@
       }
     },
     "uses": 0,
-    "playbook": "Hacker",
+    "playbook": "Hacker (Classic)",
     "rollType": "",
     "rollMod": 0,
     "choices": ""
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!f18ab6dd2fb55c58",
   "sort": 0,
   "ownership": {
     "default": 0

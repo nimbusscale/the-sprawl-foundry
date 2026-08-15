@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "b5b7534233cde614",
+  "name": "Program: Efficiency Routines",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>When you spend Console Cowboy hold on Control, invoke Efficiency Routines to affect two closely related functions instead of one (loop two adjacent camera feeds, unlock a pair of security doors, alter both an employee record and its access permissions).</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!b5b7534233cde614",
   "sort": 0,
   "ownership": {
     "default": 0

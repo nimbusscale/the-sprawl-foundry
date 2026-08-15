@@ -1,6 +1,6 @@
 {
-  "_id": "010ce0e9d3a978cd",
-  "name": "Neural scars",
+  "_id": "ba679c541c012aaf",
+  "name": "Program: Manipulate",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>You have 1-armour against Black ICE.</p>",
+    "description": "<p>When seizing or reprogramming a digitally controlled system, invoke Manipulate to take +1 forward to Act Under Pressure.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!010ce0e9d3a978cd",
+  "_key": "!items!ba679c541c012aaf",
   "sort": 0,
   "ownership": {
     "default": 0

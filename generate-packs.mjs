@@ -11,6 +11,7 @@ import { directives } from "./data/directives.mjs";
 import { driverMoves } from "./data/driver.mjs";
 import { fixerMoves } from "./data/fixer.mjs";
 import { hackerMoves } from "./data/hacker.mjs";
+import { hackerClassicMoves } from "./data/hacker-classic.mjs";
 import { hunterMoves } from "./data/hunter.mjs";
 import { infiltratorMoves } from "./data/infiltrator.mjs";
 import { killerMoves } from "./data/killer.mjs";
@@ -194,6 +195,7 @@ const movePacks = [
   ["driver-moves", driverMoves],
   ["fixer-moves", fixerMoves],
   ["hacker-moves", hackerMoves],
+  ["hacker-classic-moves", hackerClassicMoves],
   ["hunter-moves", hunterMoves],
   ["infiltrator-moves", infiltratorMoves],
   ["killer-moves", killerMoves],

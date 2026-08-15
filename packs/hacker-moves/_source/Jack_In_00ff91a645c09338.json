@@ -1,0 +1,52 @@
+{
+  "_id": "00ff91a645c09338",
+  "name": "Jack In",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you're connected to the Matrix, you can penetrate and manipulate secure digital systems. Use the normal Basic Moves with these substitutions:<br><br>• <strong>Assess +Synth</strong> — read a network, spot ICE, analyze a counter-hacker, identify vulnerabilities, or understand a rapidly changing digital situation.<br>• <strong>Research +Mind</strong> — search databases, logs, communications, personnel records, archives, or paydata.<br>• <strong>Act Under Pressure +Synth</strong> — spoof credentials, bypass protection, manipulate a digitally controlled system, alter data, or do something technically difficult while opposed.<br>• <strong>Act Under Pressure +Cool</strong> — get yourself safely disconnected when ICE or another immediate threat is trying to keep you online.<br>• <strong>Mix It Up +Edge</strong> — attack, evade, trap, sandbox, or disable active ICE or a counter-hacker in order to seize a digital objective.<br>• <strong>Help or Interfere +Links</strong> — use your access to assist or hinder another character as normal.<br><br>Fast Talk and Play Hardball work normally when interacting with people, AIs, avatars, or other entities capable of being influenced.<br><br>If an action is routine, uncontested, and you're already in a position to do it, don't roll just because it's hacking.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Hacker",
+    "rollType": "",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!00ff91a645c09338",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

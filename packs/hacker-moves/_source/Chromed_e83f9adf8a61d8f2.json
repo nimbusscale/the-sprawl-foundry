@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>Choose another piece of cyberware at character creation or in downtime. Describe how you got it and paid for it the same as you did your first piece of cyberware.</p>",
+    "description": "<p>Choose another piece of cyberware. Describe why you got it and who paid for it as normal.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",

@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "ac44489abe41a244",
+  "name": "Cyberdeck: Performance Deck",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>Built for raw speed. Once per intrusion, before making a Matrix roll, overclock the deck and take +1 forward to that roll.<br><br>Choose 2 programs.<br><br>(Cyberdecks no longer have ratings or program slots. Your deck provides one specialization and carries your chosen programs.)</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!ac44489abe41a244",
   "sort": 0,
   "ownership": {
     "default": 0

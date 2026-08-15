@@ -9,7 +9,11 @@ export const playbooks = [
   },
   {
     name: "Hacker",
-    description: "Console Cowboy, Netrunner, Decker; they're just words. Who gives a shit about words? Numbers are what matter now. Zeros and ones, baby, and when it comes to paydata, the more zeros the better. You're the shadow in the networks of cyberspace, going where you please and taking what you want. No mega-corporate system is safe from your icebreakers. Black ICE? Well, that makes it fun."
+    description: "You go where corporations keep the things they actually care about. Personnel files, cameras, security systems, financial records, weapons controls, dirty secrets—if it's connected, you can get at it. The Matrix is not a separate minigame: when you're jacked in, you use the normal Basic Moves with your own substitutions. (Simplified Matrix Playbook.)"
+  },
+  {
+    name: "Hacker (Classic)",
+    description: "Console Cowboy, Netrunner, Decker; they're just words. Who gives a shit about words? Numbers are what matter now. Zeros and ones, baby, and when it comes to paydata, the more zeros the better. You're the shadow in the networks of cyberspace, going where you please and taking what you want. No mega-corporate system is safe from your icebreakers. Black ICE? Well, that makes it fun. (The original Sprawl Hacker, using the Chapter 8 Matrix moves.)"
   },
   {
     name: "Hunter",

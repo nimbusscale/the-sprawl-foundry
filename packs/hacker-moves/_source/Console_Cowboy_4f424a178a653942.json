@@ -1,0 +1,52 @@
+{
+  "_id": "4f424a178a653942",
+  "name": "Console Cowboy",
+  "type": "move",
+  "img": "icons/svg/dice-target.svg",
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "system": {
+    "name": "",
+    "description": "<p>When you establish unauthorized access to a secure system, roll Mind.<br><br>Hold lasts until you jack out or lose access to the system. Spend 1 hold to:<br><br>• <strong>Control</strong> — bypass one digital barrier, or perform one normal operation on a subsystem you can reach, without rolling (loop cameras, unlock doors, alter a record, disable an alarm, kill lights, redirect an elevator, stop machinery, delete a file).<br>• <strong>Ghost</strong> — prevent one alert or one increase in Trace caused by your intrusion.<br>• <strong>Counter</strong> — cancel one ICE or counter-hacker consequence directed at you, your deck, or your software.<br>• <strong>Open a Door</strong> — create a digital advantage for yourself or a teammate; give +1 forward when someone acts directly on the opening you created.<br>• <strong>Scrub</strong> — erase the evidence of one specific digital action, or reduce Trace by 1.</p>",
+    "requiresMove": "",
+    "moveType": "move",
+    "rollFormula": "",
+    "moveGroup": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "10+",
+        "value": "<p>You're in clean. Gain 3 hold.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "7-9",
+        "value": "<p>You're in. Gain 1 hold and choose one:<br>• Trace +1<br>• ICE activates and starts hunting you<br>• Your intrusion triggers an alert<br>• Your access is restricted; protected parts of the system still need to be breached</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "6-",
+        "value": "<p>You're in, but gain no hold. The MC chooses two of the 7-9 options and makes a move.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Hacker",
+    "rollType": "mind",
+    "rollMod": 0,
+    "choices": ""
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "1.1.16",
+    "coreVersion": "13.0",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!4f424a178a653942",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  }
+}

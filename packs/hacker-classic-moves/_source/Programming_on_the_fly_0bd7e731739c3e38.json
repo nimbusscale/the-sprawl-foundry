@@ -1,6 +1,6 @@
 {
-  "_id": "1ed0563d4c6f232c",
-  "name": "Jack in",
+  "_id": "0bd7e731739c3e38",
+  "name": "Programming on the fly",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you're jacked into the matrix, you have access to the matrix moves in Chapter 8: The Matrix.</p>",
+    "description": "<p>You can adapt your programs to the specific weaknesses of matrix constructs as you encounter them. When you successfully compromise security or manipulate systems, hold +1.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -31,7 +31,7 @@
       }
     },
     "uses": 0,
-    "playbook": "Hacker",
+    "playbook": "Hacker (Classic)",
     "rollType": "",
     "rollMod": 0,
     "choices": ""
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!1ed0563d4c6f232c",
+  "_key": "!items!0bd7e731739c3e38",
   "sort": 0,
   "ownership": {
     "default": 0

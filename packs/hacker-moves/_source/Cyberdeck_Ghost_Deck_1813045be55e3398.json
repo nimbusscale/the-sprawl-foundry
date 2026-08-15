@@ -1,6 +1,6 @@
 {
-  "_id": "ac1ebae8799b0e3c",
-  "name": "Rep",
+  "_id": "1813045be55e3398",
+  "name": "Cyberdeck: Ghost Deck",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When you use a recognizable Matrix identity or avatar:<br>• roll Synth instead of Style to Fast Talk<br>• roll Synth instead of Edge to Play Hardball<br><br>When your reputation causes trouble for the mission, mark experience.</p>",
+    "description": "<p>Built around exploits, backdoors, and maintaining privileged access. Gain +1 Console Cowboy hold whenever you roll, even on a miss. On a miss, resolve the MC's consequences first, then gain the 1 hold so you can't immediately erase the failure that created it.<br><br>Choose 2 programs.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!ac1ebae8799b0e3c",
+  "_key": "!items!1813045be55e3398",
   "sort": 0,
   "ownership": {
     "default": 0

@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>Your identity is a mystery which you closely guard. Your deck has +2 Stealth.</p>",
+    "description": "<p>Your digital identity is exceptionally well concealed. The first time Trace would increase during each intrusion, it doesn't.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",

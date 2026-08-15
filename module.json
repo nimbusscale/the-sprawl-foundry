@@ -80,6 +80,13 @@
       "system": "pbta"
     },
     {
+      "label": "Hacker (Classic) Moves",
+      "type": "Item",
+      "name": "hacker-classic-moves",
+      "path": "packs/hacker-classic-moves",
+      "system": "pbta"
+    },
+    {
       "label": "Hunter Moves",
       "type": "Item",
       "name": "hunter-moves",
@@ -172,6 +179,7 @@
         "driver-moves",
         "fixer-moves",
         "hacker-moves",
+        "hacker-classic-moves",
         "hunter-moves",
         "infiltrator-moves",
         "killer-moves",

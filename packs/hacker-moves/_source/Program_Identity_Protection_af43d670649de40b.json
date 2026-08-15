@@ -1,6 +1,6 @@
 {
-  "_id": "f673cec50b0b76b1",
-  "name": "Black ICE vet",
+  "_id": "af43d670649de40b",
+  "name": "Program: Identity Protection",
   "type": "move",
   "img": "icons/svg/dice-target.svg",
   "effects": [],
@@ -8,7 +8,7 @@
   "flags": {},
   "system": {
     "name": "",
-    "description": "<p>When Black ICE executes a routine against you, the MC only chooses two options.</p>",
+    "description": "<p>When Trace would increase, invoke Identity Protection to reduce that increase by 1.</p>",
     "requiresMove": "",
     "moveType": "move",
     "rollFormula": "",
@@ -44,7 +44,7 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!f673cec50b0b76b1",
+  "_key": "!items!af43d670649de40b",
   "sort": 0,
   "ownership": {
     "default": 0
